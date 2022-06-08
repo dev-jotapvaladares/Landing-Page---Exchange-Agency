@@ -1,4 +1,4 @@
-# Landing-Page---Exchange-Agency
+# Landing-Page - Exchange-Agency
 
 🇺🇸
 This project is a landing page for a (fictional) company that acts as an exchange agency. The goal is to demonstrate all my skills with HTML, CSS and Javascript.
